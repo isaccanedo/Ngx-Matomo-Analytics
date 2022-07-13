@@ -1,0 +1,7 @@
+.angular
+/dist
+/dist-prod
+/coverage
+/test-reports
+*.html
+CHANGELOG.md
